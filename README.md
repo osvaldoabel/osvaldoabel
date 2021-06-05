@@ -16,10 +16,8 @@ Fullstack Software Engineer
 </table>
 </center>  
 
-## Languages and Tools:
+## Favorite Languages & Tools:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
 ![](https://img.shields.io/badge/Tools-GO-informational?style=flat-square&logo=go&color=336791&logoColor=2496ED)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&color=336791&logoColor=2496ED)
 ![](https://img.shields.io/badge/Tools-Mongo-informational?style=flat-square&logo=mongodb&color=336791&logoColor=2496ED)
